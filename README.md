@@ -24,8 +24,9 @@
 
 
 ### ✍️ Random Dev Quote
-[![Cita personalizada](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=El arte de programar reside en transformar ideas abstractas en soluciones concretas y funcionales.)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=El arte de programar reside en transformar ideas abstractas en soluciones concretas y funcionales.)
+[![El arte de programar reside en transformar ideas abstractas en soluciones concretas y funcionales.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=El%20arte%20de%20programar%20reside%20en%20transformar%20ideas%20abstractas%20en%20soluciones%20concretas%20y%20funcionales.)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=El%20arte%20de%20programar%20reside%20en%20transformar%20ideas%20abstractas%20en%20soluciones%20concretas%20y%20funcionales.)
+
 
 ------
 
-Credit: [Thalito26](https://github.com/thalito26))
+Credit: [Thalito26](https://github.com/thalito26)
